@@ -1,5 +1,7 @@
 # APL-Skeleton
 
+[中文说明](README.zh-CN.md)
+
 After you get inspired with APL, how do you get started writing your own application that works with GitHub and that you can easily deploy? 
 
 This basic APL Skeleton is designed to get you started on writing your own APL applications that can be self-contained and deployed easily. We are focusing on using the Git-friendly SALT-based approach, which uses native text files to store source code rather than a more traditional workspace.
